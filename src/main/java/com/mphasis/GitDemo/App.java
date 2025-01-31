@@ -7,7 +7,10 @@ public class App{
 		}
 	}
 	public void printData(String data) {
-		System.out.println("Data : "+data);
+		System.out.println("Data1 : "+data);
+	}
+	public void printDataAgain(String data) {
+		System.out.println("Data2 : "+data);
 	}
 	public static void main(String[] args) {
 		System.out.println("Hello World");
